@@ -140,4 +140,4 @@ data class with the required parameters which will come from the LLM.
 The tool name is auto-derived from its parameters data class. A description is also needed for the LLM. You can return
 a string (or richer PromptMessageContents) to provide data back to the LLM.
 
-Extend the Paginated interface to add auto-pagination support.
+Extend the Paginated interface to add auto-pagination support..
